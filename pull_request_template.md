@@ -1,9 +1,6 @@
-<!-- Please fill out the blanks below. -->
-
 Link to the case this pull request closes
 ------------------------------------------
 [Case number](https://link-to-case.here)
-<!-- Example: [1234](https://flosumbiz.lightning.force.com/lightning/r/Case/5001P00001ZGxxxXXX/view) -->
 
 What does this implement/fix? Explain your changes.
 ---------------------------------------------------
@@ -15,12 +12,9 @@ What does this implement/fix? Explain your changes.
 - [ ] Yes
 - [ ] No
 
-<!-- If this PR contains a breaking change, please describe the impact and migration path for existing applications below. -->
-
 Any relevant logs, error output, etc?
 -------------------------------------
 …
-<!-- If it’s long, please paste to https://gist.github.com/ and insert the link here. -->
 
 Any other comments?
 -------------------
