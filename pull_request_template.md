@@ -12,6 +12,10 @@ What does this implement/fix? Explain your changes.
 - [ ] Yes
 - [ ] No
 
+**Does this PR include changes to Docker or build scripts?**
+- [ ] Changes in Dockerfile or build scripts
+- [ ] Docker image was successfully built locally
+
 Any relevant logs, error output, etc?
 -------------------------------------
 …
