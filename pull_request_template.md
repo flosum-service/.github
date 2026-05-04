@@ -10,6 +10,10 @@ What does this implement/fix? Explain your changes.
 
 **Performed tests?**
 
+**Self-Review Checklist**
+
+- [ ] I have conducted a thorough self-review of my code before requesting a review from others.
+
 **Does this PR introduce a breaking change?** (What changes might users need to make in their application due to this PR?)
 - [ ] Yes
 - [ ] No
